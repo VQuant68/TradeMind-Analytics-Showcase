@@ -10,6 +10,8 @@
 
 ![Landing](docs/screenshots/01_hero.png)
 
+[![📄 Download Full Feature Showcase (PDF)](https://img.shields.io/badge/📄_Full_Feature_Showcase-Download_PDF-blue?style=for-the-badge)](docs/TradeMind_Feature_Showcase.pdf)
+
 </div>
 
 ---
